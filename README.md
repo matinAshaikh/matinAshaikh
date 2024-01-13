@@ -32,5 +32,7 @@ Collaborated in requirements meetings to align technical solutions with business
 Analyzed and implemented appropriate solutions based on customer needs 🤝💼.
 I'm passionate about leveraging data-driven strategies to drive business success and am open to collaborations and opportunities to further apply and expand my skills in the realm of data analysis 🚀.
 
+All my projects are avialable on : https://github.com/matinAshaikh?tab=repositories.
+
 Connect with me on www.linkedin.com/in/matin-a-shaikh for further discussions or collaborations 🌐.
 
