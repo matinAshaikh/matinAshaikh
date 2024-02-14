@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matinashaikh&label=Profile%20views&color=0e75b6&style=flat" alt="matinashaikh" /> </p>
 Introduction 🌟
 
 👋 Hi there! I'm a motivated and team-oriented Data Analyst with over a year of practical experience in interpreting and analyzing data to drive successful business solutions. My passion lies in turning raw data into actionable insights to support informed decision-making processes. I possess expertise in several analytical tools and methodologies, enabling me to extract valuable information from complex datasets 📊🔍.
